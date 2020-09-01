@@ -1,0 +1,24 @@
+certifi==2020.6.20
+cffi==1.14.2
+chardet==3.0.4
+cryptography==3.1
+defusedxml==0.6.0
+et-xmlfile==1.0.1
+idna==2.10
+jdcal==1.4.1
+jira==2.0.0
+-e git+https://github.com/poddarpr/python-for-jira.git@d7f94738fe2aa9234f396c87198c19a5e4dad191#egg=jirapythonexcel
+numpy==1.19.1
+oauthlib==3.1.0
+openpyxl==3.0.5
+pandas==1.1.1
+pbr==5.4.5
+pycparser==2.20
+PyJWT==1.7.1
+python-dateutil==2.8.1
+pytz==2020.1
+requests==2.24.0
+requests-oauthlib==1.3.0
+requests-toolbelt==0.9.1
+six==1.15.0
+urllib3==1.25.10
