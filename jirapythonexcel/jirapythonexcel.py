@@ -193,12 +193,3 @@ def getJiraIssuesInRelease(releasename):
     except Exception as e:
         log.error("Unhandled exception")
         log.error(e)
-
-
-def main():
-    getJiraIssuesInSprint('1', True)
-    getJiraIssuesInRelease('Release One')
-
-
-if __name__ == "__main__":
-    main()
